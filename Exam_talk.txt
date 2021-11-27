@@ -1,0 +1,11 @@
+Whenever exam starts divide the time to each question according to their marks.
+
+Write it somewhere that how much time you have to give to each question.
+
+First do all those question which you know you can do and try to save time here.
+
+Now, if you are at the end of doing any question and its time end then try to finish it as fast as you could.
+
+Then if you have only hint of doing the question write hint very briefly anywhere and comeback later if time remains.
+
+Give 1-2 minutes to every question to read it properly, even if you are not getting any hints on how to do it.
